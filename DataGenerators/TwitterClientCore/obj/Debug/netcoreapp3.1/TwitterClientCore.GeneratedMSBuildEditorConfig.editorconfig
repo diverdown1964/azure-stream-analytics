@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TwitterClientCore
+build_property.ProjectDir = d:\Github Projects\All\azure-stream-analytics\DataGenerators\TwitterClientCore\
